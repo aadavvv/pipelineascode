@@ -1,1 +1,1 @@
-echo inside the shell script
+echo Test Script to compile and deploy
